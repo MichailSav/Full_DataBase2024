@@ -1,0 +1,695 @@
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\MySql.Data.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\MySql.Data.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Lessers.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\DATA C#\DATA C#\obj\Debug\DATA_C_.Sanitary_control.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Lessers.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA_C_.Sanitary_control.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\чернь\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Lessers.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA_C_.Sanitary_control.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Lessers.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Sanitary_control.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 2.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Lessers.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA_C_.Sanitary_control.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 3.1\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Lessers.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA_C_.Sanitary_control.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.0\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 4.5\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.2\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.3\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.4\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.5\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 5.6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 6\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\Курсач\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\MySql.Data.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\MySql.Data.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\БД\фигня 7\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\DATA C#.exe.config
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\DATA C#.pdb
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\EntityFramework.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\Guna.UI2.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\SipaaFramework.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Buffers.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Memory.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\EntityFramework.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Buffers.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Memory.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.AssemblyReference.cache
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.Department.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.login.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.Products.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.Properties.Resources.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.Renters.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_device.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_position.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA_C_.Rent_storage.resources
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.GenerateResource.cache
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CoreCompileInputs.cache
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA C#.csproj.CopyComplete
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA C#.exe
+C:\Users\Lemon_Russ\Desktop\БД\Приложение\DATA C#\DATA C#\obj\Debug\DATA C#.pdb
